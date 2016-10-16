@@ -1,1 +1,1 @@
-# Pict-Model-
+# PICT 3D Model
