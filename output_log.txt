@@ -1,0 +1,45 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 520 (ID=0xde4)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\PICT_3D_Model_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\PICT_3D_Model_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\PICT_3D_Model_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\PICT_3D_Model_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\PICT_3D_Model_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\PICT_3D_Model_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\PICT_3D_Model_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\PICT_3D_Model_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\PICT_3D_Model_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\PICT_3D_Model_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+A tree couldn't be loaded because the prefab is missing.
+Please select any instance of the New Terrain asset in a scene and make it reference only tree prefabs that exist.
+ 
+(Filename:  Line: 44)
+
+UnloadTime: 0.269955 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 29312.
+Total: 4.459858 ms (FindLiveObjects: 1.120873 ms CreateObjectMapping: 0.118183 ms MarkObjects: 2.275025 ms  DeleteObjects: 0.440076 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 46.198097 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 29312.
+Total: 4.378062 ms (FindLiveObjects: 1.072978 ms CreateObjectMapping: 0.107297 ms MarkObjects: 2.261962 ms  DeleteObjects: 0.411463 ms)
+
+Platform assembly: D:\PICT_3D_Model_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\PICT_3D_Model_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
